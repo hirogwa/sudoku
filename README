@@ -5,7 +5,6 @@ sudoku-solver with a basic backtracking algorithm.
 
 2. Run
 sudoku-util -s <filepath>
-<br>
 *sample files included.
 
 3. Future improvements
